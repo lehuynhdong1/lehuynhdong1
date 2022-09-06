@@ -1,4 +1,4 @@
-> I am a Software Developer
+> Hello, I am a Software Developer
 
 > 📫  Ask me about anything, I am happy to help :)
 
